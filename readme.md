@@ -1,0 +1,1 @@
+My BMI calculator app created using ionic and react/typescript

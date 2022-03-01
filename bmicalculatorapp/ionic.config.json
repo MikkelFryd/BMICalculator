@@ -1,0 +1,7 @@
+{
+  "name": "bmicalculatorapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
